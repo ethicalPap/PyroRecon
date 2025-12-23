@@ -31,8 +31,7 @@ A foundational application research and bug bounty framework.
    ```
 
 
-## Start the platform
-
+2. **Start the platform**
     ```
     docker compose up -d
     ```
