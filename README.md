@@ -1,6 +1,6 @@
 # PyroRecon
 
-A comprehensive bug bounty reconnaissance and vulnerability scanning platform.
+A foundational application research and bug bounty framework.
 
 ## Features
 
