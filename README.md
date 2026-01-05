@@ -6,14 +6,12 @@ A foundational application research and bug bounty framework.
 
 - Subdomain enumeration
 - Live host detection
-- Port scanning (nmap, masscan)
+- Port scanning 
 - Technology detection
 - Content discovery
 - JavaScript analysis
-- Vulnerability scanning (Nuclei, Nikto, SQLMap)
-- OWASP ZAP integration
+- Vulnerability scanning 
 - Interactive visualization
-- GraphQL API
 
 ## Prerequisites
 
