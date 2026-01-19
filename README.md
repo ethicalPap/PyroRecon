@@ -1,6 +1,6 @@
 # PyroRecon
 
-A foundational application research and bug bounty framework.
+A suite of tools for web application research and bug bounty.
 
 ## Features
 
@@ -12,6 +12,12 @@ A foundational application research and bug bounty framework.
 - JavaScript analysis
 - Vulnerability scanning 
 - Interactive visualization
+- Note section
+- Documentation
+- Repeater
+- Decoder
+- AI Analysis
+- Dynamic Search
 
 ## Prerequisites
 
@@ -61,7 +67,7 @@ Add target domains to your scope
 Run subdomain enumeration
 Detect live hosts
 Run scans (ports, tech detection, content discovery)
-Analyze findings in the dashboard
+Analyze findings in the analysis section
 
 ## Stopping the Platform
     ```
